@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "661ce04ff0f54c0bb7f7529a"
+  },
+  "question": "What is the primary goal of software engineering?",
+  "option1": "To write code quickly",
+  "option2": "To develop high-quality software",
+  "option3": "To minimize the cost of development",
+  "option4": "To maximize the number of features",
+  "correctOption": "To develop high-quality software"
+},
+{
+  "_id": {
+    "$oid": "661ce04ff0f54c0bb7f7529b"
+  },
+  "question": "Which software development model emphasizes iterative development and incremental improvements?",
+  "option1": "Waterfall model",
+  "option2": "Agile model",
+  "option3": "V-model",
+  "option4": "Spiral model",
+  "correctOption": "Agile model"
+},
+{
+  "_id": {
+    "$oid": "661ce04ff0f54c0bb7f7529c"
+  },
+  "question": "Which of the following is NOT a software development lifecycle phase?",
+  "option1": "Planning",
+  "option2": "Coding",
+  "option3": "Testing",
+  "option4": "Execution",
+  "correctOption": "Execution"
+},
+{
+  "_id": {
+    "$oid": "661ce04ff0f54c0bb7f7529d"
+  },
+  "question": "What is the term for the process of finding and fixing defects or problems in software?",
+  "option1": "Debugging",
+  "option2": "Testing",
+  "option3": "Refactoring",
+  "option4": "Optimization",
+  "correctOption": "Debugging"
+},
+{
+  "_id": {
+    "$oid": "661ce04ff0f54c0bb7f7529e"
+  },
+  "question": "Which software engineering principle states that each part of a system should have only one responsibility?",
+  "option1": "DRY (Don't Repeat Yourself)",
+  "option2": "KISS (Keep It Simple, Stupid)",
+  "option3": "SOLID",
+  "option4": "YAGNI (You Ain't Gonna Need It)",
+  "correctOption": "SOLID"
+}]

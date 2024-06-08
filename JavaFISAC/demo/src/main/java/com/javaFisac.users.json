@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "661ce0aff0f54c0bb7f752a1"
+  },
+  "username": "admin",
+  "password": "admin",
+  "score": 0
+},
+{
+  "_id": {
+    "$oid": "661ce0b8f0f54c0bb7f752a3"
+  },
+  "username": "niks",
+  "password": "bankai24",
+  "score": 5
+},
+{
+  "_id": {
+    "$oid": "66235e757e5d62a13ceba8a4"
+  },
+  "username": "neil",
+  "password": "neil",
+  "score": 3
+}]
